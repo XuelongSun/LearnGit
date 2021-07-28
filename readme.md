@@ -3,3 +3,5 @@
 + <kbd>git</kbd> is free software distributed under the GPL.
 + ADD then Commit
 + rabbit is lovely
+
+Creating a new branch is quick.
