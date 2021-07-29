@@ -9,3 +9,5 @@ Creating a new branch is quick.
 Creating a new branch is quick & simple.
 
 a new dev branch in --on-ff mode
+
+![分支策略](branch_manager.JPG)
